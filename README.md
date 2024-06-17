@@ -17,10 +17,10 @@ This repository contains code for an accident detection model using a Convolutio
 ## Requirements
 To run the code, you need the following libraries and dependencies:
 
-### Python 
-### OpenCV
-### NumPy
-### TensorFlow
+#### Python 
+#### OpenCV
+#### NumPy
+#### TensorFlow
 
 You can install the required libraries using pip:
 ```bash
