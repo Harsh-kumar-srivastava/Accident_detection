@@ -68,6 +68,8 @@ The final model achieved an accuracy of approximately 80% on the test dataset.
 
 This project was developed by:
 - Harsh Srivastava
+- Kalidas Chaturvedi
 - Pawan Kumar
+
 
 For further details and updates, please refer to the code comments and documentation within the script files. If you encounter any issues or have questions, feel free to open an issue in the repository.
